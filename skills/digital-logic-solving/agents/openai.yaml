@@ -1,0 +1,4 @@
+interface:
+  display_name: "数字电路与数字逻辑解题"
+  short_description: "按规范识图、推导、列表并验证数字逻辑题，支持电路分析与设计"
+  default_prompt: "请使用 $digital-logic-solving 解答这道数字逻辑题，给出必要推导、表格或图形，并验证结果。"
